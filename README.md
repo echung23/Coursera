@@ -1,26 +1,12 @@
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Geogrpahy
 
-- This is
-- an unordered
-- list
+I live in the city of Baltimore n the state Maryland.
 
-1. This is
-2. an ordered
-3. list
+### Reading
 
-Here is `some code` in the middle of a sentence.
+I haven't read much this summer.
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I ate a lamb sandwhich in DC at Busboys and Poets.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
